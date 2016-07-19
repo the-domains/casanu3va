@@ -1,7 +1,7 @@
 name: casanu3va
 favicon: null
-layout_spectrum: 0.23378454288467765
-typography_spectrum: 0.08321452583186328
+layout_spectrum: 0.49729
+typography_spectrum: 0.24639
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#050400'
+    - '#9b9b99'
+    - '#d74200'
+    - '#722100'
+    - '#d89400'
   brandStrength: 0.2716874876059592
   lightness: 0.4626862849108875
   saturation: 0.14109694166108966
